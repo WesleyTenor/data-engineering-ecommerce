@@ -75,8 +75,4 @@ As consultas exploratórias utilizadas durante o projeto estão disponíveis em 
 * Construção de **Lakehouse com PySpark**.
 * Desenvolvimento de dashboards ou análises exploratórias.
 
----
-
-📌 *Este projeto será publicado passo a passo no LinkedIn como portfólio de Engenharia de Dados.*
-
 
